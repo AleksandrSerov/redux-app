@@ -23,6 +23,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "lodash": "^4.17.11",
     "qs": "^6.6.0",
     "react-redux": "^6.0.1",
     "redux": "^4.0.1",
